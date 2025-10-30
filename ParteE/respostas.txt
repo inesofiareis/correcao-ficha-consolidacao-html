@@ -1,0 +1,4 @@
+1. ./css/estilo.css
+2. ../imagens/icon.png
+3. ../index.html
+4. paginas/contactos.htmls
